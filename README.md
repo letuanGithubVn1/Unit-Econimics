@@ -29,7 +29,7 @@ If you're using Google Colab, you can upload your dataset
 
 ---
 
-## 5. Actionable Recommendations (Concise)
+## 5. Actionable
 - **Reduce CAC**: Optimize marketing channels, focus on high-conversion channels, and cut inefficient costs.
 - **Increase ARPU**: Develop premium packages, upsell, cross-sell, and encourage service upgrades.
 - **Maintain Gross Margin**: Control operating costs, optimize cloud systems to keep the margin above 75%.
