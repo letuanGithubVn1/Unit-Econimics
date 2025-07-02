@@ -27,6 +27,8 @@ If you're using Google Colab, you can upload your dataset
 | **Gross Margin**                    | 75.60%         | High margin, within the ideal range for SaaS (70–80%), indicating effective operations.                                      |
 | **Customer Lifetime Value (LTV)**   | 211,551.59 USD | LTV far exceeds CAC, demonstrating a sustainable business model with excellent customer retention.                           |
 
+---
+
 ## 5. Actionable Recommendations (Concise)
 - **Reduce CAC**: Optimize marketing channels, focus on high-conversion channels, and cut inefficient costs.
 - **Increase ARPU**: Develop premium packages, upsell, cross-sell, and encourage service upgrades.
